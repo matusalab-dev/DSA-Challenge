@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-This collection of **easy implementation problems** on HackerRank is perfect for strengthening your **JavaScript fundamentals**. You'll tackle real-world scenarios using loops, conditionals, arrays, and mathematical operations.
+This collection of **easy implementation problems** on HackerRank is perfect for strengthening our **JavaScript fundamentals**. We will tackle real-world scenarios using loops, conditionals, arrays, and mathematical operations.
 
 ## 🏆 Objective
 
