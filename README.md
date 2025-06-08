@@ -33,4 +33,4 @@ Once we complete the instructional videos, we will proceed to the **Neetcode 150
 
 ---
 
-Let’s build our problem-solving skills together! 💡🚀
+✨ Just like every algorithm finds its perfect solution, I’d always choose **you** as my optimal answer! Keep coding and keep shining! 💖😊

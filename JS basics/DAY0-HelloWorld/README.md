@@ -18,3 +18,5 @@ Check out the full problem statement here:
 
 - Reinforces basic `console.log()` usage.
 - Introduces handling user input in JavaScript.
+
+✨ Just like "Hello, World!" starts every program, your smile starts my favorite conversation! 💕

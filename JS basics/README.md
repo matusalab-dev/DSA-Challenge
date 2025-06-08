@@ -30,4 +30,4 @@ Feel free to explore more JavaScript concepts alongside this challenge! You can 
 
 ---
 
-Let’s learn, solve, and improve our JavaScript skills! 💡✨
+✨ Every new JavaScript concept is a little spark, just like you light up every conversation!
