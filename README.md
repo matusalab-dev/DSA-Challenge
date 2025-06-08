@@ -9,7 +9,7 @@ Welcome to the LeetCode Challenge repository! This repo is dedicated to solving 
    We will kick off our journey by learning the fundamentals of JavaScript using the "10 Days of JavaScript" challenge on HackerRank. We will focus exclusively on the sections relevant to DSA. You can access the link [HERE](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript).
 
 2. Warm-Up Questions  
-   After mastering the basics, we will tackle 10 warm-up questions on HackerRank to prepare ourselves for more complex DSA problems. You can find the warm-up questions [HERE](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=warmup&badge_type=problem-solving).
+   After mastering the basics, we will tackle 10 warm-up questions on HackerRank to prepare ourselves for more complex DSA problems. You can find the warm-up questions [HERE](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup&badge_type=problem-solving).
 
 3. Implementation
    After solving 10 warm up question we will solve some implementation problems on Hacker Rank to get ourselves more familier with Javascript. You can find the implementation questions [HERE](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation).
