@@ -18,7 +18,6 @@ Welcome to the **10 Days of JavaScript** challenge! This folder is dedicated to 
 
 Each day will have:  
 ✅ A problem summary.  
-✅ A solution approach.  
 ✅ Code implementation.
 
 ## 🔗 Additional Resources
