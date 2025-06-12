@@ -1,4 +1,4 @@
-# LeetCode Challenge for Beginners 🚀
+# LeetCode Challenge for Beginners and Intermediates 🚀
 
 ## 📌 Overview
 
