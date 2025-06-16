@@ -8,8 +8,15 @@ Welcome to the **LeetCode Challenge** repository! This repo is dedicated to solv
 
 ### 1️⃣ JavaScript Basics
 
-We will kick off our journey by learning the fundamentals of JavaScript using the **"10 Days of JavaScript"** challenge on HackerRank. We will focus exclusively on sections relevant to DSA. (You can choose other language too)
+We will kick off our journey by learning the fundamentals of JavaScript using the **"10 Days of JavaScript"** challenge on HackerRank. We will focus exclusively on sections relevant to DSA.
+
 🔗 [Access the challenge HERE](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+
+But if you are an absolute beginner to javascript and want to start with Python you can use this problem set of Python basics
+
+🔗 [Access the challenge HERE](https://www.hackerrank.com/domains/python?filters%5Bskills%5D%5B%5D=Python%20%28Basic%29)
+
+https://www.hackerrank.com/domains/python?filters%5Bskills%5D%5B%5D=Python%20%28Basic%29
 
 ### 2️⃣ Warm-Up Questions
 
